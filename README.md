@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey, I'm Ashikur Rahman 👋</h1>
 
 <p align="center">
@@ -36,20 +35,35 @@
 
 ### 🧠 Skills
 
-#### 👨‍💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript&perline=6" />
+#### 👨‍💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
 
-#### 🌐 Web & Frameworks  
-<img src="https://skillicons.dev/icons?i=react,angular,nestjs,html,css&perline=6" />
+#### 🌐 Frontend & Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs)
 
 #### 📱 App Development  
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter&perline=6" />
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
 
 #### 🤖 AI / ML  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
 
-#### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle&perline=6" />
+#### 🗄️ Tools & DB  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
 
 ---
 
