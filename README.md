@@ -22,8 +22,8 @@
 - 💼 Focused on **Full-Stack Web & Android App Development**  
 - 🌱 Currently working with: `React`, `NestJS`, `Flutter`, `MongoDB`, `TensorFlow`  
 - 🤝 Open to collaboration on student-friendly and innovative tech projects  
-- ✨ Dream: To become a **polished full-stack engineer & AI-powered app builder**  
-- 🧠 Fun fact: I enjoy debugging more than the actual code 😄  
+- ✨ Dream To become a **polished full-stack engineer & AI-powered app builder**  
+- 🧠 I enjoy debugging more than the actual code 😄  
 
     </td>
     <td>
