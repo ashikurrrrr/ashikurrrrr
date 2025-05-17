@@ -23,7 +23,7 @@
     <td width="60%">
       
 - 💼 Focused on **Full-Stack Web & Android App Development**  
-- 🌱 I’m currently working on [ChitChatz](https://github.com/ashikurrrrr/ChitChatz.git)
+- 🌱 I’m currently working on [ChitChatz](https://github.com/ashikurrrrr/ChitChatz.git) Project
 - 🤝 Open to collaboration on student-friendly and innovative tech projects  
 - ✨ Dream To become a **polished full-stack engineer & AI-powered app builder**  
 - 🧠 I enjoy debugging more than the actual code 😄  
