@@ -1,9 +1,13 @@
 <h1 align="center">Hey, I'm Ashikur Rahman 👋</h1>
 
 <p align="center">
-  <strong>CSE Undergraduate at North South University</strong><br>
+  <strong>CSE Undergraduate at 
+    <a href="https://www.northsouth.edu/" target="_blank">North South University</a>
+  </strong><br>
   💻 Full-Stack & Android Developer | 🤖 AI/ML Explorer | 🎯 Problem Solver
 </p>
+
+
 
 <p align="center">
   <a href="mailto:iamashikurr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
